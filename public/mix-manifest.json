@@ -1,0 +1,15 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/vendor/stisla/css/bootstrap.min.css": "/vendor/stisla/css/bootstrap.min.css",
+    "/vendor/stisla/css/fontawesome.min.css": "/vendor/stisla/css/fontawesome.min.css",
+    "/vendor/stisla/css/components.min.css": "/vendor/stisla/css/components.min.css",
+    "/vendor/stisla/css/style.min.css": "/vendor/stisla/css/style.min.css",
+    "/vendor/stisla/js/stisla,min.js": "/vendor/stisla/js/stisla,min.js",
+    "/vendor/stisla/js/scripts,min.js": "/vendor/stisla/js/scripts,min.js",
+    "/vendor/stisla/js/jquery-3.3.1.min.js": "/vendor/stisla/js/jquery-3.3.1.min.js",
+    "/vendor/stisla/js/bootstrap.min.js": "/vendor/stisla/js/bootstrap.min.js",
+    "/vendor/stisla/js/jquery.nicescroll.min.js": "/vendor/stisla/js/jquery.nicescroll.min.js",
+    "/vendor/stisla/js/popper.min.js": "/vendor/stisla/js/popper.min.js",
+    "/vendor/stisla/js/moment.min.js": "/vendor/stisla/js/moment.min.js"
+}

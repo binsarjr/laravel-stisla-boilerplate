@@ -1,0 +1,1 @@
+@extends('stisla.stisla', ['title' => 'Blank Page'])
